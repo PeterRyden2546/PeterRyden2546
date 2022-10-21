@@ -1,4 +1,4 @@
-<h1 align="center">Hi ?, I'm Peter Rydén</h1>
+<h1 align="center">Hi , I'm Peter Rydén</h1>
 <h3 align="center">A passionate student of web development.net from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterryden2546&label=Profile%20views&color=0e75b6&style=flat" alt="peterryden2546" /> </p>
